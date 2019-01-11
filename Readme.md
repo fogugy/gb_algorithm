@@ -7,4 +7,6 @@
 Так же, если удобнее, ниже приложены ссылки на оригиналы схем
 
 #### HW1 (9 Jan)
-Task 1 scheme (https://drive.google.com/file/d/1WPc45xiWYpf49fkB77PXcLqgK1QyumRM/view?usp=sharing)
+Диаграммы:
+Задача 1 (https://drive.google.com/file/d/1WPc45xiWYpf49fkB77PXcLqgK1QyumRM/view?usp=sharing)
+Задача 2 (https://drive.google.com/file/d/10wbFqvvw6yJ4HytRq69B4VzktLGJ5O-P/view?usp=sharing)

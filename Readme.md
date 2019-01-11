@@ -10,3 +10,4 @@
 Диаграммы:
 Задача 1 (https://drive.google.com/file/d/1WPc45xiWYpf49fkB77PXcLqgK1QyumRM/view?usp=sharing)
 Задача 2 (https://drive.google.com/file/d/10wbFqvvw6yJ4HytRq69B4VzktLGJ5O-P/view?usp=sharing)
+Задача 3 (https://drive.google.com/file/d/1qHStXv0YNEBvVC6ralGbrJsZKgjJ-Kg_/view?usp=sharing)

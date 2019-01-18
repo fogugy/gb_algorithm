@@ -6,8 +6,8 @@ ls = [rnd.randint(0, 100) for x in range(10)]
 
 max_nmb = ls[0]
 min_nmb = ls[0]
-max_idx = -1
-min_idx = -1
+max_idx = 0
+min_idx = 0
 
 print(ls)
 

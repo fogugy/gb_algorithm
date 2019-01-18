@@ -4,23 +4,20 @@
 
 import random as rnd
 
-w, h = 5, 4
+h, w = 5, 4
 mtrx = [[0 for x in range(w)] for y in range(h)]
 
-values = input(f'Введите значения для матрицы {w}x{h}: \n').split()
+values = input(f'Введите значения для матрицы {h}x{w}: \n').split()
 
+next_idx = 0
 for i in range(h):
     for j in range(w-1):
         # autofill
-        # mtrx[i][j] = rnd.randint(0, 5)
-        mtrx[i][j] = float(values[i+j])
-
+        mtrx[i][j] = float(values[next_idx])
+        next_idx += 1
 
 for i in range(h):
     mtrx[i][w-1] = sum(mtrx[i])
 
-
 for x in mtrx:
-    for y in x:
-        print(f'{y}\t', end='')
-    print()
+    print(*x, sep='\t')

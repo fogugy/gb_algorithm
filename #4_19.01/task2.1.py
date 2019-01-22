@@ -31,6 +31,8 @@ def get_simple(n):
 
     return simples[-1]
 
+print(get_simple(60))
+
 def test():
     method_res = get_simple(20)
     test_res = simples_test[19]
@@ -44,8 +46,7 @@ def test_performance():
     def test_iteration(n):
         res = timeit(f'get_simple({n})', number=100,
                      setup='from __main__ import get_simple')
-        # print('N=', n, 'time= ', res/100)
-        print(n,';', res/100)
+        print('N=', n, 'time=', res/100)
 
     for x in [2**i for i in range(4)]:
         test_iteration(x)

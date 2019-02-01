@@ -7,6 +7,8 @@ verify_ssl = true
 pylint = "*"
 
 [packages]
+pympler = "*"
+memory-profiler = "*"
 
 [requires]
 python_version = "3.6"

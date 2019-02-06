@@ -9,6 +9,7 @@ pylint = "*"
 [packages]
 pympler = "*"
 memory-profiler = "*"
+itertools = "*"
 
 [requires]
 python_version = "3.6"
